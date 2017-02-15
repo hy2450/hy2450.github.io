@@ -11,15 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Hexiu Ye
 ## Header 2
-### Header 3
+### My Projects
 
-- Bulleted
-- List
+- Data Visualization,[_NYC Street Trees Census Shiny App_](https://hexiuye.shinyapps.io/pro1/)
+- Natural Language Processing,[_Analysis on Harry Potter Network_](http://lleiou.github.io/4249FinalProject/)
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
