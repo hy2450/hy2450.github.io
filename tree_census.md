@@ -8,7 +8,7 @@ our Shinny app is desiged to present abundant information based on the data from
 
 ##### Data Processing
 
-The dataset we used comes from 2015 NYC Street Tree Census, downloaded from [NYC OpenData link](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35/about), which is conducted by volunteers and staff organized by NYC Parks & Recreation and partner organizations.
+The dataset we used comes from 2015 NYC Street Tree Census, downloaded from [NYC OpenData](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35/about), which is conducted by volunteers and staff organized by NYC Parks & Recreation and partner organizations.
 The size is 89.2 MB and it has 683788 samples, after we selected the 20 columns as follows:
 'tree_id', 'status', 'health','spc_common','guards', 'sidewalk','root_stone','root_grate', 'root_other', 'trunk_wire', 'trnk_light', 'trnk_other','brch_light', 'brch_shoe', 'brch_other', 'address', 'zipcode', 'borocode','latitude','longitude'.
 
@@ -36,3 +36,8 @@ In this scattterplot, each point represents a specific species and its X represe
 
 
 ##### What could be improved
+
+* Add the function of showing current location
+* Expore the health problems more deeply, in terms of root, trunk and branch
+
+[back](index)
