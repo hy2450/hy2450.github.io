@@ -14,9 +14,9 @@ The size is 89.2 MB and it has 683788 samples, after we selected the 20 columns 
 
 1. Focus on the street trees that are alive:
 
-* trees that have poor health status 
+  * trees that have poor health status 
 
-* trees that have good health status but have problems coming from their roots, trunks or branches.
+  * trees that have good health status but have problems coming from their roots, trunks or branches.
 
 
 2. Choropleth Map
