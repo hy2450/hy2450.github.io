@@ -1,10 +1,13 @@
 ## Analysis on 2015 NYC Street Tree Census 
+
 ##### Abstract
+
 Trees are essential to human beings. They absorb carbon dioxide and release oxygen, provide habitats for a variety of animals and play a significant role in ecosystem.
 In order to help professional people better know the health status of the street trees in the city and also help raise the public's awareness,
 our Shinny app is desiged to present abundant information based on the data from 2015 NYC Street Tree Census.
 
 ##### Data Processing
+
 The dataset we used comes from 2015 NYC Street Tree Census, downloaded from [NYC OpenData link](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35/about), which is conducted by volunteers and staff organized by NYC Parks & Recreation and partner organizations.
 The size is 89.2 MB and it has 683788 samples, after we selected the 20 columns as follows:
 'tree_id', 'status', 'health','spc_common','guards', 'sidewalk','root_stone','root_grate', 'root_other', 'trunk_wire', 'trnk_light', 'trnk_other','brch_light', 'brch_shoe', 'brch_other', 'address', 'zipcode', 'borocode','latitude','longitude'.
@@ -16,7 +19,7 @@ The size is 89.2 MB and it has 683788 samples, after we selected the 20 columns 
 
   * trees that have poor health status 
 
-  * trees that have good health status but have problems coming from their roots, trunks or branches.
+  * trees that have good health status but have problems coming from their roots, trunks or branches
 
 
 2. Choropleth Map
