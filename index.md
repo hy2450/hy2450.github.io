@@ -11,7 +11,7 @@
 
    _NYC Street Trees Census Shiny App_ [Click me!](https://hexiuye.shinyapps.io/pro1/)
    
-   [Report](https://hy2450.github.io/tree_census.md/)
+   [Report](tree_census)
 
 
 
