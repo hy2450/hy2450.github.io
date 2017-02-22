@@ -21,15 +21,15 @@ The size is 89.2 MB and it has 683788 samples, after we selected the 20 columns 
 
 2. Choropleth Map
 
-   The Choropleth Map visualizes the propotion of dead trees, stump trees and healthy trees across the NYC area.
-   The zipcodes of the areas with the highest propotion of dead trees are 11697,	11451, 10006,	10048, 10018,	10474,	10069,	      10005,	10452, 10456,	11224, mainly distributed in upper Manhattan.
-   The stump street trees are mainly distributed in Queens.
+The Choropleth Map visualizes the propotion of dead trees, stump trees and healthy trees across the NYC area.
+The zipcodes of the areas with the highest propotion of dead trees are 11697,	11451, 10006,	10048, 10018,	10474,	10069,	      10005,	10452, 10456,	11224, mainly distributed in upper Manhattan.The stump street trees are mainly distributed in Queens.
+
 
 3. Focus on species
 
-   We also drew a scatterplot reflecting the propotion of healthy trees and unhealthy trees of each species.
-   This is meant to give insights on which species of trees can thrive better in NYC area and which are not.
-   In this scattterplot, each point represents a specific species and its X represents its healthy propotion while the Y the      unhealthy propotion. So we conclude that Black Pine, Norway Maple, Katsura Tree, Pond Cpress and Amur Cork Tree might not      fit well in NYC area.
+We also drew a scatterplot reflecting the propotion of healthy trees and unhealthy trees of each species.
+This is meant to give insights on which species of trees can thrive better in NYC area and which are not.
+In this scattterplot, each point represents a specific species and its X represents its healthy propotion while the Y the      unhealthy propotion. So we conclude that Black Pine, Norway Maple, Katsura Tree, Pond Cpress and Amur Cork Tree might not      fit well in NYC area.
 
 
 ##### What could be improved
